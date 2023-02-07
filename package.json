@@ -1,0 +1,23 @@
+{
+  "name": "testjavascrip-env",
+  "version": "0.0.0",
+  "description": "esto es un entorno prueba de ES6 para node ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariadnegomen/testjavascrip-env.git"
+  },
+  "keywords": [
+    "Node",
+    "ES6"
+  ],
+  "author": "Ariadne Gomen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ariadnegomen/testjavascrip-env/issues"
+  },
+  "homepage": "https://github.com/ariadnegomen/testjavascrip-env#readme"
+}
